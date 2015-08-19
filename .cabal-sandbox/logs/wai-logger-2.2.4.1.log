@@ -1,0 +1,19 @@
+Configuring wai-logger-2.2.4.1...
+Building wai-logger-2.2.4.1...
+Preprocessing library wai-logger-2.2.4.1...
+[1 of 5] Compiling Network.Wai.Logger.IP ( Network/Wai/Logger/IP.hs, dist/dist-sandbox-a04f340a/build/Network/Wai/Logger/IP.o )
+[2 of 5] Compiling Network.Wai.Logger.IORef ( Network/Wai/Logger/IORef.hs, dist/dist-sandbox-a04f340a/build/Network/Wai/Logger/IORef.o )
+[3 of 5] Compiling Network.Wai.Logger.Date ( Network/Wai/Logger/Date.hs, dist/dist-sandbox-a04f340a/build/Network/Wai/Logger/Date.o )
+[4 of 5] Compiling Network.Wai.Logger.Apache ( Network/Wai/Logger/Apache.hs, dist/dist-sandbox-a04f340a/build/Network/Wai/Logger/Apache.o )
+[5 of 5] Compiling Network.Wai.Logger ( Network/Wai/Logger.hs, dist/dist-sandbox-a04f340a/build/Network/Wai/Logger.o )
+
+Network/Wai/Logger.hs:52:1: Warning:
+    The import of ‘Control.Applicative’ is redundant
+      except perhaps to import instances from ‘Control.Applicative’
+    To import instances alone, use: import Control.Applicative()
+In-place registering wai-logger-2.2.4.1...
+Creating package registration file:
+/tmp/pkgConf-wai-logger-2.2.41197352298915256190.1
+Installing library in
+/home/cmotoche/Documents/haskell/scotty/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.1/wai-logger-2.2.4.1-EcGRon3zh4BKKbRx3AEQ0L
+Registering wai-logger-2.2.4.1...
