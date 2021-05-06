@@ -11,3 +11,4 @@ cabal.sandbox.config
 /log/error.log
 
 **/*.swp
+.stack-work/*
